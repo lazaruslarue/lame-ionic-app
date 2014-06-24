@@ -1,0 +1,12 @@
+{
+  "name": "LAME App",
+  "private": "true",
+  "devDependencies": {
+    "ionic": "driftyco/ionic-bower#1.0.0-beta.8"
+  },
+  "dependencies": {
+    "angular-bootstrap": "~0.11.0",
+    "bootswatch": "~3.1.1+1",
+    "angular-ui-router": "~0.2.10"
+  }
+}

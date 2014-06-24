@@ -1,0 +1,17 @@
+<div class="btn-group" dropdown>
+  <button type="button" class="btn btn-lg btn-primary">Your button</button>
+  <button type="button" class="btn btn-lg btn-primary dropdown-toggle">
+    <span class="caret"></span>
+    <span class="sr-only">Split button!</span>
+  </button>
+  <ul class="dropdown-menu" role="menu">
+    <li ng-repeat="item in exampleList">
+      <div>
+        <example-directive data="item"></example-directive>
+      </div>
+    </li>
+  </ul>
+</div>
+
+<!-- substates appear in the ui-view below -->
+<ui-view></ui-view>

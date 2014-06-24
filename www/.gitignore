@@ -1,0 +1,5 @@
+ignore
+node_modules
+app/config/config.js
+bower_components
+.DS_Store
