@@ -1,5 +1,5 @@
-Mobile Angular Ionic Expres app
-===============================
+Mobile Angular Ionic Express app
+================================
 
 This is an addon starter mobile application template using the [Ionic Framework](http://ionicframework.com/), as well as [Angular UI Router](http://angular-ui.github.io/ui-router/), [Angular-UI-Bootstrap](http://angular-ui.github.io/), [Express JS](http://expressjs.com/). 
 
