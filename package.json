@@ -1,5 +1,5 @@
 {
-  "name": "Lazarus's Angular Mobile Express + Ionic app (LAME Ionic App)",
+  "name": "lame-ionic-app",
   "version": "0.9.0",
   "main": "server/server.js",
   "homepage": "https://github.com/lazaruslarue/lame-ionic-app",
@@ -7,7 +7,7 @@
     "Lazaruslarue <lazaruslarue@gmail.com>"
   ],
   "private": true,
-  "description": "An Ionic & Angular template using Angular UI Router, Bootswatch, Express and some other stuff",
+  "description": "Lazarus's Angular Mobile Express + Ionic app (LAME Ionic App): An Ionic & Angular template using Angular UI Router, Bootswatch, Express and some other stuff",
   "dependencies": {
     "express": "^4.4.4",
     "gulp": "^3.5.6",
