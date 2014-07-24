@@ -5,7 +5,7 @@ This is an addon starter mobile application template using the [Ionic Framework]
 
 What's missing: 
 * Testing
-* Compiled JS files... ie. Gulp isn't really working yet
+* Concatenated JS files... ie. Gulp isn't really working yet
 * A database (if you want Neo4j as a db see [this repo](https://github.com/lazaruslarue/riffin-on-ripple) )
 * there's probably a lot of other stuff missing... submit issues when you find it
 
