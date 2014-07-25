@@ -19,7 +19,7 @@ Where'd it come from?
 $ sudo npm install -g ionic cordova gulp express nodemon
 $ npm install
 $ bower install
-$ nodemon --watch
+$ ionic serve
 ```
 Unless you have a PORT environment variable set, you'll find your app sitting at ````localhost:3000````
 
